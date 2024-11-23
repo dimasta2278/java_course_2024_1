@@ -2,7 +2,7 @@ package lr1;
 
 public class Example3 {
 
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         int S, D;
         S = 10;

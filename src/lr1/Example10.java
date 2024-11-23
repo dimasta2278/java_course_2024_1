@@ -14,7 +14,6 @@ public class Example10 {
 
              switch (years) {
             case "1984":
-                Object лет;
                 System.out.println("40 лет");
                 break;
             case "1985":
