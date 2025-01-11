@@ -2,14 +2,11 @@ package lr3;
 
 import java.util.Objects;
 import java.util.Scanner;
-
 public class example2_1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите название дня");
-
         String name_day = (in.nextLine());
-
             if (name_day.equals("Понедельник")) {
             System.out.println("Это первый день недели");
         } else if (name_day.equals("Вторник")) {
